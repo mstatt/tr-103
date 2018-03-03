@@ -57,9 +57,12 @@ Here are all of the commands to run(once Node is installed):
 
 -- Open a file from the dev directory in an editor make a change ad save it, the browser will reflect and render changes.
 
->>ctrl + c   & y for yes to stop livereload server and run any other gulp command. (gulp stagetest or gulp stageprod)
+>>ctrl + c   
+
+& y for yes to stop livereload server and run any other gulp command. (gulp stagetest or gulp stageprod)
 
 >> gulp stagetest
+
 -- Open index.html in the test directory in an editor you will see the live reload script at the bottom is now gone along with the comments and blanklines.
 ************************************************
 ####Extra npm commands:
