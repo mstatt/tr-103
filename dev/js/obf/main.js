@@ -1,1 +1,0 @@
-$(document).ready(function(){}),$(function(){$("body").delegate("#btn1","click",function(){$("#d1").text("Go forth and automate your development pipeline.")})});
