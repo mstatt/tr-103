@@ -55,7 +55,7 @@ Here are all of the commands to run(once Node is installed):
 
 --Launch index.html in a browser
 
--- Open a file from the dev directory in an editor make a change ad save it, the browser will reflect and render changes.
+-- Open a file from the dev, dev/css & dev/js directories in an editor make a change and save it, the browser will reflect and render changes.
 
 >>ctrl + c   
 
