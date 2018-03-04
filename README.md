@@ -7,15 +7,15 @@ Project Folder(TR-103)
 
 tr-103/
 
-|- dev/
+   |- dev/
 
-   |- index.html
+       |- index.html
    
-   |- js/
+    |- js/
    
-      |- main.js
+        |- main.js
       
-      |- jquery-3.3.1.min.js
+        |- jquery-3.3.1.min.js
       
 gulpfile.js
 
