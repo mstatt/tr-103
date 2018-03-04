@@ -2,7 +2,7 @@
 
 As a continuation from the 2nd task runner tutorial, in this session we are going to be using live reload to see the changes to our code as soon as we make the changes without refreshing the browser.
 
-# TR-103 dev directory structure as follows:
+# TR-103 directory structure as follows:
 Project Folder(TR-103)
 
 tr-103/
