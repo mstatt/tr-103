@@ -11,11 +11,11 @@ tr-103/
 
        |- index.html
    
-    |- js/
+       |- js/
    
-        |- main.js
+           |- main.js
       
-        |- jquery-3.3.1.min.js
+           |- jquery-3.3.1.min.js
       
 gulpfile.js
 
