@@ -69,7 +69,8 @@ Here are all of the commands to run(once Node is installed):
 
 >> gulp stagetest
 
--- Open index.html in the test directory in an editor you will see the live reload script at the bottom is now gone along with the comments and blanklines.
+-- Open test/index.html in an editor you will see the live reload script at the bottom is now gone along with the comments, blanklines and it is minified.
+
 -- Open the test/js/main.js in an editor to verify that the contents are obfuscated.
 ************************************************
 ####Extra npm commands:
